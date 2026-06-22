@@ -1,16 +1,14 @@
 # SECP2523-DATABASE
 
-# SECP2523-DATABASE-DESIGN
+# 🚀 Database (SECP2523) - Learning Portfolio & Project Reflection
 
-# 🚀 Database Design (SECP2523) - Learning Portfolio & Project Reflection
-
-Welcome to my portfolio for the **Database Design (SECP2523)** course.
+Welcome to my portfolio for the **Database (SECP2523)** course.
 
 ---
 
 ## 📑 Overall Course Reflection
 
-Database Design has completely redefined how I conceptualize, structure, and optimize relational data systems to back enterprise operations. Moving beyond unstructured flat storage, this course built a backend architecture mindset centered around structural integrity, relationship dependencies, and high-performance query execution across complex schemas.
+Database has completely redefined how I conceptualize, structure, and optimize relational data systems to back enterprise operations. Moving beyond unstructured flat storage, this course built a backend architecture mindset centered around structural integrity, relationship dependencies, and high-performance query execution across complex schemas.
 
 Key personal and technical takeaways include:
 * **Structural Integrity via Normalization:** Learning to break down complex, messy real-world business requirements into highly organized, third-normal-form (3NF) tables to eliminate multi-value anomalies and data redundancy.
